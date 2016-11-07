@@ -10,15 +10,6 @@
 		<link rel="stylesheet" href="css/estilos.css">
 	</head>
 	<body>
-		<nav class="nav-main">
-			<div class="logo"><a href="#" class="navbar-brand"><img src="imagenes/flomarV3320.png" style="margin-top:-15px;"></a></div>
-			<ul>
-				<li><a href="#" class="nav-item">Inicio</a></li>
-				<li><a href="#" class="nav-item">Quienes Somos</a></li>
-				<li><a href="#" class="nav-item">Productos</a></li>
-				<li><a href="#" class="nav-item">Ubicación</a></li>
-				<li><a href="#" class="nav-item">Productos</a></li>
-			</ul>
-		</nav>
+		
 	</body>
 </html>
