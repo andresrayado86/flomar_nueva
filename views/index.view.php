@@ -10,6 +10,12 @@
 		<link rel="stylesheet" href="css/estilos.css">
 	</head>
 	<body>
+		<div class="contenedor">
+			<header>
+				 <img src="imagenes/flomarv4chica.png"> 
+			</header>
+	       
+   		</div>
 		
 	</body>
 </html>
